@@ -33,6 +33,9 @@
     },
     "extra": {
         "bolt-assets": "web",
-        "bolt-class": "Bolt\\Extension\\Postitief\\PiwikTracking\\Extension"
+        "bolt-class": "Bolt\\Extension\\Postitief\\PiwikTracking\\Extension",
+        "branch-alias": {
+            "dev-master": "1.0.3"
+        }
     }
 }
